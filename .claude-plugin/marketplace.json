@@ -1,0 +1,19 @@
+{
+  "name": "hexagonal-architecture-skills",
+  "owner": {
+    "name": "nathankim0",
+    "url": "https://github.com/nathankim0"
+  },
+  "metadata": {
+    "description": "Hexagonal Architecture review, design, and incremental refactoring skills for Claude Code and Codex.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hexagonal-architecture",
+      "source": "./plugins/hexagonal-architecture",
+      "description": "Review ports, adapters, dependency direction, and application testability without unnecessary layers.",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hexagonal-architecture",
+  "description": "Review, design, and incrementally refactor code using Hexagonal Architecture (Ports and Adapters).",
+  "version": "1.0.0",
+  "author": {
+    "name": "nathankim0",
+    "url": "https://github.com/nathankim0"
+  },
+  "homepage": "https://github.com/nathankim0/hexagonal-architecture-skills",
+  "repository": "https://github.com/nathankim0/hexagonal-architecture-skills",
+  "license": "MIT",
+  "skills": "./skills/"
+}

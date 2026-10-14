@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hexagonal Architecture"
+  short_description: "Review ports, adapters, dependencies, and testability"
+  default_prompt: "Use $hexagonal-architecture to review this feature's ports, adapters, dependency direction, and tests."

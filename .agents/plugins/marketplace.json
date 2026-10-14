@@ -1,0 +1,20 @@
+{
+  "name": "hexagonal-architecture-skills",
+  "interface": {
+    "displayName": "Hexagonal Architecture Skills"
+  },
+  "plugins": [
+    {
+      "name": "hexagonal-architecture",
+      "source": {
+        "source": "local",
+        "path": "./plugins/hexagonal-architecture"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
